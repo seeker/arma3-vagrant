@@ -1,0 +1,3 @@
+[submodule "cookbooks/arma3"]
+	path = cookbooks/arma3
+	url = https://github.com/seeker/arma3-cookbook.git
